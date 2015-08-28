@@ -2,8 +2,8 @@
 #include <queue>
 #include <thread>
 
-#define BUFFER_COUNT (10)
-#define	MAX_BUFFER_SIZE (100000)
+#define BUFFER_COUNT (1000)
+#define	MAX_BUFFER_SIZE (1000)
 
 using namespace std;
 
